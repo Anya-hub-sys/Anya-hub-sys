@@ -9,4 +9,4 @@ Hi, I’m Anya, a motion graphics designer who automates the boring parts of cre
 - [Folder Audit Report](https://github.com/Anya-hub-sys/Gdrive-folder-audit-report) – finds duplicates and messy folders
 
 ## 🔔 Notifications
-- [Google Chat Telegram Notifier](https://github.com/Anya-hub-sys/Google-Chat-Telegram-Notifier) — sends Telegram alerts for Google Chat DMs and @mentions
+- [Google Chat Telegram Notifier](https://github.com/Anya-hub-sys/Google-Chat-Telegram-Notifier) — Google Apps Script that sends Telegram alerts for Google Chat DMs, @mentions and @all.
